@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sblackburn_4@hotmail.com
+	name = Sarah Blackburn
